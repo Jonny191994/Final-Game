@@ -1,0 +1,37 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="com.heparo.terrain.toolkit.TerrainToolkit" preserve="all"/>
+<type fullname="MenuScene" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusion" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.AutoExposure" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.Bloom" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.ChromaticAberration" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.ColorGrading" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.DepthOfField" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.Grain" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.MotionBlur" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.ScreenSpaceReflections" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.Vignette" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebug" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessEffectSettings" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessLayer" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessProfile" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources" preserve="all"/>
+<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessVolume" preserve="all"/>
+<type fullname="Basic3D" preserve="all"/>
+<type fullname="Basic3DPlus" preserve="all"/>
+<type fullname="Death" preserve="all"/>
+<type fullname="EnemyAI" preserve="all"/>
+<type fullname="EnemySpawn" preserve="all"/>
+<type fullname="FLoor" preserve="all"/>
+<type fullname="EnemyHp" preserve="all"/>
+<type fullname="lazer" preserve="all"/>
+<type fullname="Menu" preserve="all"/>
+<type fullname="PlanePilot" preserve="all"/>
+<type fullname="Shooting" preserve="all"/>
+<type fullname="Spawn" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>

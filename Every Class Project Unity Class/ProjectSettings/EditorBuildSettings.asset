@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Flight sim.unity
+    guid: 57ac387a63cd075409b1ca22abf31730
+  - enabled: 1
+    path: Assets/CarnivalCyclops.unity
+    guid: 8bda330591540d549a0ca7917f972093
+  - enabled: 1
+    path: Assets/BedRoom.unity
+    guid: 4cc3cc7cef1948f459d7c1a0cfe96e01
